@@ -1,4 +1,4 @@
-package com.example.sfgdi.services;
+package com.example.sfgdi.service;
 
 import org.springframework.stereotype.Service;
 

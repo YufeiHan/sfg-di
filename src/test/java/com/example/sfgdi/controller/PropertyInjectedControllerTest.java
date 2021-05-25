@@ -1,7 +1,6 @@
-package com.example.sfgdi.controllers;
+package com.example.sfgdi.controller;
 
-import com.example.sfgdi.services.ConstructorGreetingService;
-import com.example.sfgdi.services.PropertyGreetingService;
+import com.example.sfgdi.service.PropertyGreetingService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
